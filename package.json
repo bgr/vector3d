@@ -1,0 +1,18 @@
+{
+  "name": "net.smkd.vector3d",
+  "version": "1.0.0",
+  "displayName": "Vector3d",
+  "description": "Double-precision variants of Vector3 and Vector2 classes",
+  "unity": "2017.1",
+  "dependencies": {
+  },
+  "keywords": [
+    "vector", "vector3", "vector3d", "vector2", "vector2d", "double", "precision"
+  ],
+  "author": {
+    "name": "Kristian Holdich",
+    "email": "kristian@smkd.net"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
